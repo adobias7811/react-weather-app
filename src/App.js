@@ -1,11 +1,12 @@
 import "./App.css";
+import Weather from "./Weather";
 
 function App() {
   return (
     <div className="App">
-      {" "}
-      React Weather App
       <div className="container">
+        <h1>React Weather App</h1>
+        <Weather />
         <footer>
           This project was coded by{" "}
           <a
