@@ -33,6 +33,7 @@
 }
 
 .Weather canvas {
+  float: left;
   margin: 10px auto;
 }
 
