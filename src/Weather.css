@@ -38,8 +38,9 @@
 }
 
 .Weather canvas {
-  float: left;
   margin: 10px auto;
+  display: block;
+  float: left;
 }
 
 .Weather .temperature {
