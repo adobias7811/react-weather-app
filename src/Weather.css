@@ -10,6 +10,11 @@
   margin-bottom: 20px;
 }
 
+.Weather .search-button {
+  background-color: #daa51f !important;
+  color: white;
+}
+
 .Weather h1 {
   color: #878787;
   display: block;

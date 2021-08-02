@@ -3,6 +3,10 @@
   margin: 30px auto;
 }
 
+.App .header {
+  text-align: center;
+}
+
 .App footer {
   margin: 10px 0;
   text-align: center;
